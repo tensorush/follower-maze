@@ -1,4 +1,4 @@
-## :hamster: :twisted_rightwards_arrows: follower-maze
+## :hamster: :twisted_rightwards_arrows: follower maze
 
 [![CI][ci-shield]][ci-url]
 
