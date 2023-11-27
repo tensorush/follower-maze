@@ -13,9 +13,6 @@
 
 - [`just`](https://just.systems/) - command runner.
 
-[ci-shield]: https://img.shields.io/github/actions/workflow/status/tensorush/Dozer-Stampede-Challenge/ci.yaml?branch=main&style=for-the-badge&logo=github&label=CI&labelColor=black
-[ci-url]: https://github.com/tensorush/Dozer-Stampede-Challenge/blob/main/.github/workflows/ci.yaml
-
 [ci-shd]: https://img.shields.io/github/actions/workflow/status/tensorush/follower-maze/ci.yaml?branch=main&style=for-the-badge&logo=github&label=CI&labelColor=black
 [ci-url]: https://github.com/tensorush/follower-maze/blob/main/.github/workflows/ci.yaml
 [lc-shd]: https://img.shields.io/github/license/tensorush/follower-maze.svg?style=for-the-badge&labelColor=black
